@@ -1,0 +1,21 @@
+.bg {
+padding-top: 30px;
+background-image: url(../data/images/valentines-day-hearts-background-loop_4_gfndtz2e__F0000.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+width: 1400px;
+height: 600px;
+text-align: center;
+margin-top: 30px;
+margin-left: 50px;
+margin-bottom: 100px;
+}
+
+.dep {
+ padding-bottom: 50px;
+}
+
+h6 {
+    color: white;
+}
